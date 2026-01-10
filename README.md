@@ -35,6 +35,7 @@ stack = {
 
 ## 🔗 Connect
 - LinkedIn: www.linkedin.com/boluwatife-efuwape
+  
 If you are:
 - transitioning into tech
 - also learning a new programming language
