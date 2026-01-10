@@ -2,9 +2,9 @@
 # 👋 Hi, I'm Bolu  
 ### Python Developer | RPA Developer
 
-I am an aspiring Python software developer with a background in business process automation via Robotic Process Automation (RPA).
+I'm an aspiring Python software developer with a background in business process automation via Robotic Process Automation (RPA).
 
-I am currently developing my software engineering skills through a **Python software development bootcamp with Code Black Females**.
+I'm currently developing my software engineering skills through a **Python software development bootcamp with Code Black Females**.
 
 This GitHub documents my learning journey as I strengthen my foundations in Python, problem-solving, and software development best practices. Here, you’ll find coursework, practice exercises, and projects that reflect my growth as a developer.
 
